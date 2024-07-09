@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\bin\Debug\net8.0-windows\Canvas App.exe
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\bin\Debug\net8.0-windows\Canvas App.deps.json
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\bin\Debug\net8.0-windows\Canvas App.runtimeconfig.json
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\bin\Debug\net8.0-windows\Canvas App.dll
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\bin\Debug\net8.0-windows\Canvas App.pdb
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas_App.Form1.resources
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.AssemblyInfo.cs
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.dll
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\refint\Canvas App.dll
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.pdb
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\Canvas App.genruntimeconfig.cache
+C:\Users\Admin\source\repos\dcit318-assignment4-10950536\Canvas App\obj\Debug\net8.0-windows\ref\Canvas App.dll
